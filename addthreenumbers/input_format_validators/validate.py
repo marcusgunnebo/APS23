@@ -1,5 +1,4 @@
 #! /usr/env/python3
-
 import sys
 import re
 
@@ -13,6 +12,3 @@ assert -1000 < c < 1000
 
 assert sys.stdin.readline() == ""
 sys.exit(42)
-
-
-

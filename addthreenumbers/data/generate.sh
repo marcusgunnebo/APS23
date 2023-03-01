@@ -2,7 +2,7 @@
 USE_SCORING=0
 . ../../_testdata_tools/gen.sh
 
-use_solution th.py              # Use ../submissions/accepted/js_100.cpp to generate answer files
+use_solution mtn.py              # Use ../submissions/accepted/js_100.cpp to generate answer files
 
 compile generate_random.py
 compile generate_explicit.py
